@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=200&section=header&text=Nithish%20Reddy%20Mendu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Intern%20Candidate%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D4429,50:2EA043,100:39D353&height=200&section=header&text=Nithish%20Reddy%20Mendu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Intern%20Candidate%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=0072FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+MGIT+Hyderabad+%C2%B7+CGPA+9.3%2F10;Building+ElectricSearch+%C2%B7+TeamFlow+%C2%B7+LocalLynk;440%2B+DSA+Problems+Solved+%C2%B7+Hackathon+Runner-Up;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+MGIT+Hyderabad+%C2%B7+CGPA+9.3%2F10;Building+ElectricSearch+%C2%B7+TeamFlow+%C2%B7+LocalLynk;440%2B+DSA+Problems+Solved+%C2%B7+Hackathon+Runner-Up;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-electrowiz.site-0072FF?style=flat-square&logo=vercel&logoColor=white)](https://electrowiz.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-electrowiz.site-2EA043?style=flat-square&logo=vercel&logoColor=white)](https://electrowiz.site)
 [![GitHub](https://img.shields.io/badge/GitHub-Nithish--2809-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nithish-2809)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-nithishreddy2809%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithishreddy2809@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-250%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-190%2B_Solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2EA043?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-nithishreddy2809%40gmail.com-2EA043?style=flat-square&logo=gmail&logoColor=white)](mailto:nithishreddy2809@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-250%2B_Solved-2EA043?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-190%2B_Solved-2EA043?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 
 </div>
 
@@ -36,51 +36,51 @@ I'm a second-year Computer Science undergraduate at **Mahatma Gandhi Institute o
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2EA043?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2EA043?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2EA043?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2EA043?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2EA043?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+![React](https://img.shields.io/badge/React-2EA043?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2EA043?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2EA043?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2EA043?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2EA043?style=for-the-badge)
 
 **Backend & Real-Time**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-2EA043?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-2EA043?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-2EA043?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2EA043?style=for-the-badge&logo=postman&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-2EA043?style=for-the-badge)
 
 **Desktop & AI**
 
-![Electron](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Transformer_Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron.js-2EA043?style=for-the-badge&logo=electron&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-2EA043?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Transformer_Embeddings-2EA043?style=for-the-badge&logo=huggingface&logoColor=white)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite_FTS5-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2EA043?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite_FTS5-2EA043?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2EA043?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-2EA043?style=for-the-badge&logo=redis&logoColor=white)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2EA043?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2EA043?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-2EA043?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2EA043?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-2EA043?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-2EA043?style=for-the-badge&logo=render&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-2EA043?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-2EA043?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 </div>
 
@@ -157,16 +157,16 @@ I'm a second-year Computer Science undergraduate at **Mahatma Gandhi Institute o
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nithish-2809&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish-2809&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nithish-2809&show_icons=true&theme=github-green&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish-2809&layout=compact&theme=github-green&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithish-2809&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithish-2809&hide_border=true&background=0D1117&stroke=2EA043&ring=2EA043&fire=39D353&currStreakLabel=2EA043&sideLabels=39D353&currStreakNum=39D353&sideNums=39D353&dates=2EA043" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nithish-2809&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nithish-2809&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
@@ -176,11 +176,15 @@ I'm a second-year Computer Science undergraduate at **Mahatma Gandhi Institute o
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish-2809&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish-2809&bg_color=0D1117&color=39D353&line=2EA043&point=39D353&area_color=2EA043&area=true&hide_border=true" width="100%"/>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/0072FF/Nithish-2809" width="100%" alt="Nithish-2809's GitHub contribution chart"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithish-2809/Nithish-2809/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nithish-2809/Nithish-2809/output/github-contribution-grid-snake.svg" />
+  <img alt="Nithish's contribution snake" src="https://raw.githubusercontent.com/Nithish-2809/Nithish-2809/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -190,17 +194,17 @@ I'm a second-year Computer Science undergraduate at **Mahatma Gandhi Institute o
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishreddy2809@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://electrowiz.site)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-2EA043?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishreddy2809@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EA043?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=vercel&logoColor=white)](https://electrowiz.site)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2EA043?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nithish-2809&color=0072FF&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Nithish-2809&color=2EA043&style=for-the-badge&label=Profile+Views" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:2EA043,100:0D4429&height=100&section=footer" width="100%"/>
 
 </div>
