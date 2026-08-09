@@ -180,11 +180,7 @@ I'm a second-year Computer Science undergraduate at **Mahatma Gandhi Institute o
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithish-2809/Nithish-2809/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nithish-2809/Nithish-2809/output/github-contribution-grid-snake.svg" />
-  <img alt="Nithish's contribution snake" src="https://raw.githubusercontent.com/Nithish-2809/Nithish-2809/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<img src="https://ghchart.rshah.org/2EA043/Nithish-2809" width="100%" alt="Nithish-2809's GitHub contribution chart"/>
 
 </div>
 
