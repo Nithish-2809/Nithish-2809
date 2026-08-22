@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=200&section=header&text=Nithish%20Reddy%20Mendu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Intern%20Candidate%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=0072FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+MGIT+Hyderabad+%C2%B7+CGPA+9.3%2F10;Building+ElectricSearch+%C2%B7+TeamFlow+%C2%B7+LocalLynk;440%2B+DSA+Problems+Solved+%C2%B7+Hackathon+Runner-Up;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=0072FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+MGIT+Hyderabad+%C2%B7+CGPA+9.3%2F10;Building+ElectricSearch+%C2%B7+TeamFlow+%C2%B7+LocalLynk;600%2B+DSA+Problems+Solved+%C2%B7+Hackathon+Runner-Up;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 
 <br/>
 
