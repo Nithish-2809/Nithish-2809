@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Nithish-2809&color=0072FF&style=for-the-badge&label=Profile+Views" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=0072FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+MGIT+Hyderabad+%C2%B7+CGPA+9.3%2F10;Building+ElectricSearch+%C2%B7+TeamFlow+%C2%B7+LocalLynk;600%2B+DSA+Problems+Solved+%C2%B7+Hackathon+Runner-Up;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=0072FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+MGIT+Hyderabad+%C2%B7+CGPA+9.3%2F10;ElectricSearch+%C2%B7+TeamFlow+%C2%B7+LocalLynk;600%2B+DSA+Problems+Solved+%C2%B7+Hackathon+Runner-Up;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 
 <br/>
 
